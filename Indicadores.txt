@@ -1,0 +1,5 @@
+Quantidade de alunos por meios Orgânico 226.
+Quantidade de alunos que vieram pelo Anúncio 274.
+Quantidade de alunos que vieram pelo Youtube 155.
+Quantidade de alunos que vieram pelo Instagram e FaceBook 24.
+Quantidade de alunos que vieram pelo Site 73.
